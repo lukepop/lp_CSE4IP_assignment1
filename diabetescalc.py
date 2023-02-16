@@ -2,7 +2,7 @@
 # REV HISTORY
 #~~~~~~~~~~~~~~~~~~~~~
 # A - 20230216
-#
+# B - Test 
 #~~~~~~~~~~~~~~~~~~~~~
 # determine diabetes risk given user inputs of height (m), weight (kg) and the average number of hours spent exercising per week 
 # based on inputs, calculate the BMI and then check health condition based on a complex boolean 
