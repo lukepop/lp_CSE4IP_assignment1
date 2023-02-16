@@ -12,7 +12,7 @@ weight = float(input('Your weight on Earth (kg): '))
 planetgrav = float(input('Other planets gravity (m/s^2): '))
 
 #earthgrav is a constrant 
-earthgrav = 9.81\
+earthgrav = 9.81
 
 #calculate weight out and output this as a string using the f string notation 
 weightout = weight/earthgrav*planetgrav
