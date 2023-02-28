@@ -1,10 +1,10 @@
 #Question 5  
 # REV HISTORY
 #~~~~~~~~~~~~~~~~~~~~~
-# A - 20230228
+# A - 20230228 LDP Tested and checked 
 # 
 #~~~~~~~~~~~~~~~~~~~~~
-# TODO:
+# TODO: Check LMS forum for outcome of queries 
 # 
 # 
 # accept input and print smallest appropriate powerbank size 

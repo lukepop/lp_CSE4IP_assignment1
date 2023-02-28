@@ -3,7 +3,9 @@
 #~~~~~~~~~~~~~~~~~~~~~
 # A - 20230216
 # B - 20230217 Update code structure to use dictionaries 
-#~~~~~~~~~~~~~~~~~~~~~
+#~~~~~~~~~~~~~~~~~~~~~\
+# TODO:  Unfinished, very janky code. Check LMS forum for outcome of queries 
+#
 # determine approx number of calories per hundred grams of a food product 
 #requires 4 inputs; serving size (grams), grams of fat per serve, grams of carbs, grams of protein. Also needs the product name for output purposes 
 # needs to calculate calories per 100g 
