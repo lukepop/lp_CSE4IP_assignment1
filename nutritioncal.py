@@ -14,9 +14,9 @@
 #mylist = [60,10,10,10, "Nutella"), (60,10,10,10, "Oreos"), (60,10,10,10, "Muesli")]
 
 #define constants
-fat_cals = 9 
-carb_cals = 4
-pro_cals = 4 
+FATS = 9 
+CARBS = 4
+PROTEIN = 4 
 
 my_foods = {"Nutella": [{"serving_size":60}, {"Fats":10}, {"Carbohydrates":20}, {"Protein":20}], "Oreos": [{"serving_size":20}, {"Fats":10}, {"Carbohydrates":5}, {"Protein" :5}]}
 for keys in my_foods:
@@ -31,7 +31,7 @@ for keys in my_foods:
     carb_100g = (food[2].get("Carbohydrates")/serve)*100
     pro_100g = (food[3].get("Protein")/serve)*100
     
-    calories = (fat_100g)*fat_cals + (carb_100g)*carb_cals + (pro_100g)*pro_cals 
+    calories = (fat_100g)*FATS + (carb_100g)*CARBS + (pro_100g)*PROTEIN 
     print(f'{keys}: {calories}')
     
 
