@@ -35,7 +35,7 @@ print('Enter information about the devies you wish to charge')
 
 
 
-#initialise it as false with the test subsequent to check if more devices are required    
+#initialise it as True with the test subsequent to check if more devices are required    
 more_devices = True 
 powerbank_total = 0 
 
